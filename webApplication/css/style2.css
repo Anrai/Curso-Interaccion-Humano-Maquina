@@ -1,0 +1,32 @@
+body{
+	background: -ms-linear-gradient(30deg, blue, green, yellow);
+}
+
+nav{
+	border: outset;
+	margin: 20px;
+	padding: 20px;
+}
+
+article
+{
+	text-align: justify;
+	color: red;
+}
+
+section
+{
+	text-align: justify;
+	column-count: 3;
+	column-gap: 5rem;
+	column-rule: 1px solid black;
+	-webkit-column-count:3; /* Safari and Chrome */
+	-webkit-column-gap:5rem; /* Safari and Chrome */
+	-webkit-column-rule: 1px solid black; /* Safari and Chrome */
+}
+
+footer{
+	text-align: right;
+	font-size: 10pt;
+	margin-right: 70px;
+}

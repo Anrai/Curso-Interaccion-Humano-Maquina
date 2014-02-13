@@ -1,0 +1,21 @@
+body{
+	background-color: #9999FF;
+	color: #FFFFFF;
+}
+
+h1{
+	color: #FFFFCC;
+}
+
+h2{
+	color: red;
+	font-style: italic;
+}
+
+#jabon{
+	background-color: green;
+}
+
+.clasesita{
+	text-transform: uppercase;
+}
